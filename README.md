@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oi, eu sou a Marina 👋
 
-<!--
-**marina-veiga/marina-veiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação - UFMA  
+💻 Focada em desenvolvimento e resolução de problemas  
+🚀 Atualmente aprendendo: Java, Python e Estruturas de Dados  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Java
+- Python
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- Servidor de Chat em Java
+- Jogo em Python (Pygame)
+- Sistema de gestão de espaços
+
+## 📫 Contato
+- Email: seuemail@email.com
