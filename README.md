@@ -7,8 +7,6 @@
 
 ## 💻 Linguagens
 
-Linguagens mais utilizadas nos meus projetos
-
 <div style="display: flex; justify-content: flex-start;">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true"/>
