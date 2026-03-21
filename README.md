@@ -1,4 +1,4 @@
-# Oi, eu sou a Marina 👋
+# oii 👋
 
 🎓 Estudante de Ciência da Computação - UFMA  
 💻 Focada em desenvolvimento e resolução de problemas  
