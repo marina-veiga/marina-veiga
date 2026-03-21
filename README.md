@@ -5,11 +5,12 @@
 
 ---
 
-## 💻 Linguagens
+## 📊 Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 ---
