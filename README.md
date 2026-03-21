@@ -5,9 +5,11 @@
 
 ---
 
-## 📊 Linguagens mais utilizadas
+## 💻 Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&theme=radical)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -21,7 +23,7 @@
 
 ## 📚 Portfólio
 
-🔗 [Ver portfólio completo](https://github.com/marina-veiga/portifolio-ufma)
+🔗 [Portfólio completo](https://github.com/marina-veiga/portifolio-ufma)
 
 ---
 
