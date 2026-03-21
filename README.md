@@ -5,13 +5,15 @@
 
 ---
 
-## 📊 Atividade no GitHub
+## 💻 Linguagens que uso
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap;">
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
