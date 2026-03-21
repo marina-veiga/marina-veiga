@@ -9,9 +9,10 @@
 
 <div style="display: flex; justify-content: flex-start;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true&title=Linguagens%20mais%20utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
