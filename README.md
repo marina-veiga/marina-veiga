@@ -18,11 +18,15 @@
 
 ## 🚀 Projetos em destaque
 
-- [Gestão de Espaços](https://github.com/marina-veiga/Gestao-de-espacos-Java) — Sistema para gerenciamento e reserva de espaços.
-- [Sistema de Gerenciamento de Playlists](https://github.com/marina-veiga/sistema-gerenciamento-playlists) — Organização de playlists com busca e ordenação.
-- [Carteira de Investimentos](https://github.com/marina-veiga/CarteiraDeInvestimentos) — Programa que calcula combinações de ações buscando o melhor retorno.
+</div>
+
+- [Gestão de Espaços](https://github.com/marina-veiga/Gestao-de-espacos-Java) — Sistema para gerenciamento e reserva de espaços.  
+- [Sistema de Gerenciamento de Playlists](https://github.com/marina-veiga/sistema-gerenciamento-playlists) — Organização de playlists com busca e ordenação.  
+- [Carteira de Investimentos](https://github.com/marina-veiga/CarteiraDeInvestimentos) — Programa que calcula combinações de ações buscando melhor retorno.  
 
 ---
+
+<div align="center">
 
 ## 📚 Portfólio
 
