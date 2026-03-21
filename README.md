@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 </div>
 
