@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 👩‍💻 Sobre mim
 Sou estudante apaixonada por tecnologia, com interesse em resolver problemas reais através de software.  
 Atualmente focada em desenvolvimento e explorando áreas como IA e análise de dados.
 
@@ -23,32 +23,11 @@ Atualmente focada em desenvolvimento e explorando áreas como IA e análise de d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 📌 Gestão de Espaços
-Sistema para gerenciamento e reserva de espaços.  
-🔹 Organização e controle de disponibilidade  
-🔗 [Ver projeto](https://github.com/SEU_USER/gestao-espacos)
+📂 Repositório com meus principais projetos, incluindo aplicações práticas, sistemas e estudos em desenvolvimento.
 
----
-
-### 📌 Sistema de Gerenciamento de Playlists
-Aplicação para organizar playlists com busca e ordenação.  
-🔹 Estruturas de dados na prática  
-🔗 [Ver projeto](https://github.com/SEU_USER/playlist-manager)
-
----
-
-### 📌 Carteira de Investimentos
-Programa que calcula combinações de ações buscando melhor retorno.  
-🔹 Lógica e otimização  
-🔗 [Ver projeto](https://github.com/SEU_USER/carteira-investimentos)
----
-
-## 📊 Em aprendizado
-- Inteligência Artificial  
-- Análise de Dados  
-- Desenvolvimento Full Stack  
+🔗 [Acessar projetos](https://github.com/marina-veiga/portifolio-ufma)
 
 ---
 
