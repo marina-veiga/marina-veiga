@@ -1,35 +1,56 @@
-# Oi, eu sou a Marina 👋
+# 👋 Oi, eu sou a Marina Veiga
 
-🎓 Ciência da Computação - UFMA  
-💻 Interessada em Inteligência Artificial, dados e desenvolvimento  
-
----
-
-## 💻 Linguagens
-
-<div style="display: flex; justify-content: flex-start;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=tokyonight&hide_border=true" />
-
-</div>
-
+- Estudante de Ciência da Computação - UFMA  
+- Interessada em Inteligência Artificial, Dados e Desenvolvimento  
+ 
 
 ---
 
-## 🚀 Projetos em destaque
-
-- [Gestão de Espaços](https://github.com/marina-veiga/Gestao-de-espacos-Java) — Sistema para gerenciamento e reserva de espaços.
-- [Sistema de Gerenciamento de Playlists](https://github.com/marina-veiga/sistema-gerenciamento-playlists) — Organização de playlists com busca e ordenação.
-- [Carteira de Investimentos](https://github.com/marina-veiga/CarteiraDeInvestimentos) — Programa que calcula combinações de ações buscando o melhor retorno.
+## 🧠 Sobre mim
+Sou estudante apaixonada por tecnologia, com interesse em resolver problemas reais através de software.  
+Atualmente focada em desenvolvimento e explorando áreas como IA e análise de dados.
 
 ---
 
-## 📚 Portfólio
+## 💻 Tecnologias
 
-🔗 [Portfólio completo](https://github.com/marina-veiga/portifolio-ufma)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## Projetos em Destaque
+
+### 📌 Gestão de Espaços
+Sistema para gerenciamento e reserva de espaços.  
+🔹 Organização e controle de disponibilidade  
+🔗 [Ver projeto](https://github.com/SEU_USER/gestao-espacos)
+
+---
+
+### 📌 Sistema de Gerenciamento de Playlists
+Aplicação para organizar playlists com busca e ordenação.  
+🔹 Estruturas de dados na prática  
+🔗 [Ver projeto](https://github.com/SEU_USER/playlist-manager)
+
+---
+
+### 📌 Carteira de Investimentos
+Programa que calcula combinações de ações buscando melhor retorno.  
+🔹 Lógica e otimização  
+🔗 [Ver projeto](https://github.com/SEU_USER/carteira-investimentos)
+---
+
+## 📊 Em aprendizado
+- Inteligência Artificial  
+- Análise de Dados  
+- Desenvolvimento Full Stack  
 
 ---
 
 ## 📫 Contato
-
-- Email: marinaveig03@gmail.com
+📧 marinaveig03@gmail.com  
