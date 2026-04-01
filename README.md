@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Marina Veiga
+# 👋 Oi, eu sou Marina Veiga
 
 🎓 Ciência da Computação - UFMA  
 
