@@ -2,8 +2,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou graduanda em Ciência da Computação na UFMA e faço parte do LINT (Laboratório de Inteligência Interativa),  onde participo de projetos de extensão e pesquisa.  Tenho interesse em  Inteligência Artificial, Aprendizado de Máquina, Visão Computacional e Processamento de Imagens.
-
+Sou graduanda em Ciência da Computação pela UFMA e integrante do Laboratório de Inteligência Interativa (LINT-UFMA), atuando como pesquisadora e extensionista em projetos acadêmicos. Tenho interesse nas áreas de Inteligência Artificial, Aprendizado de Máquina, Visão Computacional e Processamento de Imagens.
 
 ## 💻 Tecnologias
 
