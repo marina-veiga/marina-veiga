@@ -10,14 +10,3 @@ Sou graduanda em Ciência da Computação pela UFMA e integrante do Laboratório
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
-
-## 🚀 Projetos em Destaque
-
-📂 Repositório com meus principais projetos, incluindo aplicações práticas, sistemas e estudos em desenvolvimento.
-
-🔗 [Acessar projetos](https://github.com/marina-veiga/portifolio-ufma)
-
----
-
-## 📫 Contato
-📧 marinaveig03@gmail.com  
