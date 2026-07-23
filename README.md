@@ -5,8 +5,6 @@
 🔬 Integrante do Laboratório de Inteligência Interativa (LINT-UFMA)
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=marina-veiga&color=blue" alt="Profile views"/>
-
 ---
 
 ## 👩‍💻 Sobre mim
@@ -25,24 +23,12 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <a href="mailto:marinaveiga01@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="http://lattes.cnpq.br/392040950698324">
+<a href="http://lattes.cnpq.br/3920409506983224">
 <img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
