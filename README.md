@@ -13,7 +13,7 @@
 
 Sou estudante de Ciência da Computação pela UFMA e integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
 
-Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Desenvolvimento Front-end e Engenharia de Software**. Busco aprimorar meus conhecimentos por meio de estudos, projetos e experiências acadêmicas.
+Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Desenvolvimento Front-end e Engenharia de Software**.
 
 ---
 
