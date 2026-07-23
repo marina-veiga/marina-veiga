@@ -27,10 +27,13 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ## 📊 GitHub Stats
 
-<p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="left">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</div>
 
 ---
 
