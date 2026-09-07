@@ -54,7 +54,7 @@ Projeto acadêmico desenvolvido como **portfólio**, reunindo informações e tr
 
 <br>
 
-Projeto desenvolvido em **C** envolvendo conceitos de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
+Projeto desenvolvido em **C** envolvendo conceitos fundamentais de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
 
 <br><br>
 
@@ -87,7 +87,20 @@ Repositório destinado aos **estudos e exercícios da disciplina de Linguagem de
 
 ## 🐍 Minhas contribuições
 
-<img src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
