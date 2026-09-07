@@ -22,21 +22,27 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-## 🎓 Portfólio Acadêmico
-**Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na UFMA.**
+## 💻 Tecnologias & Ferramentas
 
-
-<a href="https://github.com/marina-veiga/portifolio-ufma">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20UFMA-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,git,github,vscode&perline=8" />
 
 ---
 
-## 📊 GitHub
+## 🌐 Portfólio UFMA
+
+<div align="left">
+
+<a href="https://github.com/marina-veiga/portifolio-ufma">
+<img src="https://img.shields.io/badge/Ver%20meu%20Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na **UFMA**.
+
+---
 
 ## 📊 GitHub
 
@@ -53,21 +59,15 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 ## 📫 Contato
 
 <a href="mailto:marinaveiga01@gmail.com">
-
 <img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="http://lattes.cnpq.br/3920409506983224">
-
 <img src="https://img.shields.io/badge/Lattes-EC4899?style=for-the-badge&logo=academia&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/marina-veiga">
-
 <img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <br><br>
