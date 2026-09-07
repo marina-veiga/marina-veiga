@@ -44,11 +44,13 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ## 📊 GitHub
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marina-veiga&theme=github_dark" />
+<div align="left">
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marina-veiga&theme=github_dark" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marina-veiga&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marina-veiga&theme=github_dark" width="48%" />
+
+</div>
 
 ---
 
