@@ -14,15 +14,27 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação pela UFMA** e integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
+🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Maranhão (UFMA)**.
+
+🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
 
 Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
 
 ---
 
+## 🚀 Atualmente
+
+🎓 Cursando **Ciência da Computação na UFMA**  
+🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**  
+🤖 Estudando **Inteligência Artificial e Aprendizado de Máquina**  
+👁️ Explorando **Visão Computacional e Processamento de Imagens**  
+💻 Desenvolvendo projetos acadêmicos e aprimorando minhas habilidades em programação
+
+---
+
 ## 💻 Tecnologias & Ferramentas
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,git,github,vscode&perline=8" />
 
@@ -30,77 +42,19 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-## 🎓 Projetos Acadêmicos
-
-<details>
-<summary><b>🌐 Portfólio UFMA</b></summary>
-
-<br>
-
-Projeto acadêmico desenvolvido como **portfólio**, reunindo informações e trabalhos relacionados à trajetória na Universidade Federal do Maranhão.
-
-<br><br>
-
-<a href="SEU_LINK_DO_PORTFOLIO_UFMA">
-<img src="https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📌 Manipulação de Matrizes Dinâmicas usando Ponteiros</b></summary>
-
-<br>
-
-Projeto desenvolvido em **C** envolvendo conceitos fundamentais de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
-
-<br><br>
-
-<a href="https://github.com/marina-veiga/lp1-matrizes-dinamicas-ponteiros">
-<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📚 Lista de Exercícios — Linguagem de Programação I</b></summary>
-
-<br>
-
-Repositório destinado aos **estudos e exercícios da disciplina de Linguagem de Programação I**, reunindo diferentes práticas de programação em C.
-
-<br><br>
-
-<a href="https://github.com/marina-veiga/lista-exercicios-lp1">
-<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
----
+## 🎓 Portfólio Acadêmico
 
 <div align="center">
 
-## 🐍 Minhas contribuições
+<a href="SEU_LINK_DO_PORTFOLIO_UFMA">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-snake.svg"
-  />
-</picture>
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20UFMA-8B5CF6?style=for-the-badge&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+**Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na UFMA.**
 
 </div>
 
@@ -118,25 +72,35 @@ Repositório destinado aos **estudos e exercícios da disciplina de Linguagem de
 
 ## 📫 Contato
 
-<div align="left">
+<div align="center">
 
 <a href="mailto:marinaveiga01@gmail.com">
+
 <img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="http://lattes.cnpq.br/3920409506983224">
+
 <img src="https://img.shields.io/badge/Lattes-EC4899?style=for-the-badge&logo=academia&logoColor=white"/>
+
 </a>
+
+<a href="https://github.com/marina-veiga">
+
+<img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=marina-veiga&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=marina-veiga&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=100&section=footer&animation=twinkling" width="100%"/>
 
