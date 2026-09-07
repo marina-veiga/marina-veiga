@@ -64,8 +64,6 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 
 ---
 
-<div">
-
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=marina-veiga&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=8B5CF6&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
