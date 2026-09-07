@@ -1,13 +1,20 @@
 <div align="center">
 
-# 👋 Olá, eu sou Marina Veiga!
+# 👋 Olá, eu sou Marina Veiga
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Graduanda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%92%BB;Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Vis%C3%A3o+Computacional+%F0%9F%91%81%EF%B8%8F;Processamento+de+Imagens+%F0%9F%96%BC%EF%B8%8F;Engenharia+de+Software+%F0%9F%92%BB" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+UFMA;Intelig%C3%AAncia+Artificial;Machine+Learning;Vis%C3%A3o+Computacional;Processamento+de+Imagens;Engenharia+de+Software"
+/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marina-veiga)
-[![Lattes](https://img.shields.io/badge/Lattes-0066CC?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/3920409506983224)
+<a href="mailto:marinaveiga01@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-21262d?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="http://lattes.cnpq.br/3920409506983224">
+<img src="https://img.shields.io/badge/Lattes-21262d?style=flat-square&logo=academia&logoColor=white">
+</a>
 
 </div>
 
@@ -15,23 +22,51 @@
 
 ## 👩‍💻 Sobre mim
 
-🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Maranhão (UFMA)**
+🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Maranhão (UFMA)**.
 
 🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
 
-🧠 Tenho interesse em **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
+Tenho interesse em **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
 
 ---
 
-## 🧠 Áreas de interesse
+## 🔬 Pesquisa & Interesses
 
-<div align="center">
+<details>
+<summary><b>🧠 Inteligência Artificial</b></summary>
 
-| 🤖 Inteligência Artificial | 🧠 Machine Learning | 👁️ Visão Computacional |
-| :---: | :---: | :---: |
-| 🖼️ Processamento de Imagens | 💻 Engenharia de Software | 🔬 Pesquisa |
+<br>
 
-</div>
+Interesse em técnicas de Inteligência Artificial e Aprendizado de Máquina aplicadas à resolução de problemas computacionais.
+
+</details>
+
+<details>
+<summary><b>👁️ Visão Computacional</b></summary>
+
+<br>
+
+Estudo de técnicas relacionadas à análise, processamento e interpretação de imagens.
+
+</details>
+
+<details>
+<summary><b>🖼️ Processamento de Imagens</b></summary>
+
+<br>
+
+Exploração de métodos computacionais para processamento e extração de informações em imagens.
+
+</details>
+
+<details>
+<summary><b>💻 Engenharia de Software</b></summary>
+
+<br>
+
+Interesse em desenvolvimento de software, programação e construção de soluções computacionais.
+
+</details>
 
 ---
 
@@ -47,70 +82,48 @@
 
 <div align="center">
 
-`Java` • `C` • `JavaScript` • `HTML` • `CSS` • `Git` • `GitHub` • `VS Code`
+`Java` · `C` · `JavaScript` · `HTML` · `CSS`  
+`Git` · `GitHub` · `VS Code`
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Atividade
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=marina-veiga&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=marina-veiga&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/marina-veiga/lp1-matrizes-dinamicas-ponteiros">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marina-veiga&repo=lp1-matrizes-dinamicas-ponteiros&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/marina-veiga/lista-exercicios-lp1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marina-veiga&repo=lista-exercicios-lp1&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📫 Vamos conversar?
+## 📫 Contato
 
 <div align="center">
 
 <a href="mailto:marinaveiga01@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="http://lattes.cnpq.br/3920409506983224">
-<img src="https://img.shields.io/badge/Lattes-0066CC?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lattes-21262d?style=for-the-badge&logo=academia&logoColor=white">
 </a>
 
 </div>
@@ -119,14 +132,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=marina-veiga&style=for-the-badge&color=8A2BE2&label=VISITAS" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "Transformando curiosidade em código e pesquisa em soluções." ✨
+<img src="https://komarev.com/ghpvc/?username=marina-veiga&style=flat-square&color=58A6FF&label=VISITAS">
 
 </div>
