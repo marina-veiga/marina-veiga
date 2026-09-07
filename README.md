@@ -8,18 +8,6 @@
 
 <br><br>
 
-<a href="mailto:marinaveiga01@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="http://lattes.cnpq.br/3920409506983224">
-<img src="https://img.shields.io/badge/Lattes-EC4899?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-
-<a href="https://github.com/marina-veiga">
-<img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
