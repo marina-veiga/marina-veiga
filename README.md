@@ -14,17 +14,15 @@
 
 ## 👩‍💻 Sobre mim
 
-🎓 Graduanda em **Ciência da Computação pela Universidade Federal do Maranhão (UFMA)**.
-
-🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
+Sou estudante de **Ciência da Computação pela UFMA** e integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
 
 Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
 
 ---
 
-<div>
-
 ## 💻 Tecnologias & Ferramentas
+
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,git,github,vscode&perline=8" />
 
@@ -35,14 +33,33 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 ## 🎓 Projetos Acadêmicos
 
 <details>
+<summary><b>🌐 Portfólio UFMA</b></summary>
+
+<br>
+
+Projeto acadêmico desenvolvido como **portfólio**, reunindo informações e trabalhos relacionados à trajetória na Universidade Federal do Maranhão.
+
+<br><br>
+
+<a href="SEU_LINK_DO_PORTFOLIO_UFMA">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+<br>
+
+<details>
 <summary><b>📌 Manipulação de Matrizes Dinâmicas usando Ponteiros</b></summary>
 
 <br>
 
-Projeto desenvolvido em **C** envolvendo conceitos fundamentais de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
+Projeto desenvolvido em **C** envolvendo conceitos de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
+
+<br><br>
 
 <a href="https://github.com/marina-veiga/lp1-matrizes-dinamicas-ponteiros">
-<img src="https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </details>
@@ -54,7 +71,9 @@ Projeto desenvolvido em **C** envolvendo conceitos fundamentais de programação
 
 <br>
 
-Repositório desenvolvido para **estudos e resolução de exercícios da disciplina de Linguagem de Programação I**, reunindo diferentes práticas de programação em C.
+Repositório destinado aos **estudos e exercícios da disciplina de Linguagem de Programação I**, reunindo diferentes práticas de programação em C.
+
+<br><br>
 
 <a href="https://github.com/marina-veiga/lista-exercicios-lp1">
 <img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -64,6 +83,18 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 
 ---
 
+<div align="center">
+
+## 🐍 Minhas contribuições
+
+<img src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=marina-veiga&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=8B5CF6&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
@@ -72,7 +103,9 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 
 ---
 
-<div align="center">
+## 📫 Contato
+
+<div align="left">
 
 <a href="mailto:marinaveiga01@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -82,11 +115,11 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 <img src="https://img.shields.io/badge/Lattes-EC4899?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
-<a href="https://github.com/marina-veiga">
-<img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-<br><br>
+<br>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=marina-veiga&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
