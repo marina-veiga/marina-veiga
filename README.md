@@ -22,7 +22,7 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-<div align="center">
+<div>
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -74,20 +74,7 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 
 ---
 
-## 🎓 Formação
-
 <div align="center">
-
-**Ciência da Computação**  
-Universidade Federal do Maranhão — UFMA
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Vamos conversar?
 
 <a href="mailto:marinaveiga01@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
