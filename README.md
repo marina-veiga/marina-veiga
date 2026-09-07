@@ -23,6 +23,8 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 ---
 
 ## 🎓 Portfólio Acadêmico
+**Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na UFMA.**
+
 
 <a href="https://github.com/marina-veiga/portifolio-ufma">
 
@@ -32,17 +34,17 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 <br><br>
 
-**Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na UFMA.**
-
 ---
+
+## 📊 GitHub
 
 ## 📊 GitHub
 
 <div align="left">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marina-veiga&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marina-veiga&theme=github_dark&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&border_color=8B5CF6&chart_color=8B5CF6,EC4899,06B6D4" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marina-veiga&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marina-veiga&theme=github_dark&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&border_color=8B5CF6&icon_color=EC4899" width="48%" />
 
 </div>
 
