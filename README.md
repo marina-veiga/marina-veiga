@@ -22,16 +22,6 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-## 🚀 Atualmente
-
-🎓 Cursando **Ciência da Computação na UFMA**  
-🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**  
-🤖 Estudando **Inteligência Artificial e Aprendizado de Máquina**  
-👁️ Explorando **Visão Computacional e Processamento de Imagens**  
-💻 Desenvolvendo projetos acadêmicos e aprimorando minhas habilidades em programação
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 <div align="center">
@@ -62,9 +52,13 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 <div align="center">
 
-## 🔥 GitHub Streak
+## 📊 GitHub
 
-<img src="https://streak-stats.demolab.com?user=marina-veiga&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=8B5CF6&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&icon_color=EC4899&langs_count=8" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&icon_color=EC4899&rank_icon=github" />
 
 </div>
 
