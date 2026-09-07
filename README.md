@@ -22,16 +22,6 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ---
 
-## 🌐 Portfólio UFMA
-
-Meu portfólio reúne **projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória na UFMA**.
-
-<a href="https://github.com/marina-veiga/portifolio-ufma">
-  <img src="https://img.shields.io/badge/🔗%20Acessar%20Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
 ## 🎓 Portfólio Acadêmico
 
 <a href="https://github.com/marina-veiga/portifolio-ufma">
