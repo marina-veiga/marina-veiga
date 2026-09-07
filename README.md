@@ -64,7 +64,7 @@ Repositório desenvolvido para **estudos e resolução de exercícios da discipl
 
 ---
 
-<div align="center">
+<div">
 
 ## 🔥 GitHub Streak
 
