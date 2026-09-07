@@ -24,21 +24,15 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 ## 💻 Tecnologias & Ferramentas
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,git,github,vscode&perline=8" />
-
-</div>
 
 ---
 
 ## 🎓 Portfólio Acadêmico
 
-<div align="center">
+<a href="https://github.com/marina-veiga/portifolio-ufma">
 
-<a href="SEU_LINK_DO_PORTFOLIO_UFMA">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20UFMA-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20UFMA-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -46,27 +40,19 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 **Projetos, trabalhos e experiências desenvolvidos ao longo da minha trajetória acadêmica na UFMA.**
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=donut&theme=dark&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marina-veiga&theme=github_dark" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marina-veiga&theme=github_dark" />
 
 ---
 
 ## 📫 Contato
-
-<div align="center">
 
 <a href="mailto:marinaveiga01@gmail.com">
 
@@ -90,9 +76,7 @@ Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Apr
 
 <img src="https://komarev.com/ghpvc/?username=marina-veiga&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
 
