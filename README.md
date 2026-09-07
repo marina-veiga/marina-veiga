@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=220&section=header&text=MARINA%20VEIGA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Research&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=220&section=header&text=MARINA%20VEIGA&fontSize=55&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%"/>
 
 <br>
 
@@ -30,100 +30,55 @@
 
 🔬 Integrante do **Laboratório de Inteligência Interativa (LINT-UFMA)**, onde participo de projetos de pesquisa e extensão.
 
-🧠 Tenho interesse em **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
+Tenho interesse nas áreas de **Inteligência Artificial**, com ênfase em **Aprendizado de Máquina, Visão Computacional e Processamento de Imagens**, além de **Engenharia de Software**.
 
 ---
 
 <div align="center">
 
-## 🧠 Áreas de interesse
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-EC4899?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Image%20Processing-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-EC4899?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-## 🔬 Pesquisa & Desenvolvimento
-
-<details>
-<summary><b>🤖 Inteligência Artificial</b></summary>
-
-<br>
-
-Estudo e aplicação de técnicas de Inteligência Artificial e Aprendizado de Máquina para desenvolvimento de soluções computacionais.
-
-</details>
-
-<details>
-<summary><b>👁️ Visão Computacional</b></summary>
-
-<br>
-
-Interesse em análise e interpretação de imagens utilizando técnicas computacionais e modelos de aprendizado de máquina.
-
-</details>
-
-<details>
-<summary><b>🖼️ Processamento de Imagens</b></summary>
-
-<br>
-
-Exploração de técnicas de processamento e análise de imagens para extração de informações relevantes.
-
-</details>
-
-<details>
-<summary><b>💻 Engenharia de Software</b></summary>
-
-<br>
-
-Interesse em programação, desenvolvimento de aplicações e construção de soluções de software.
-
-</details>
-
----
-
-<div align="center">
-
-## 💻 Tech Stack
+## 💻 Tecnologias & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=java,c,javascript,html,css,git,github,vscode&perline=8" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-06B6D4?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-EC4899?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-06B6D4?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-EC4899?style=flat-square&logo=git&logoColor=white"/>
-
 </div>
+
+---
+
+## 🎓 Projetos Acadêmicos
+
+<details>
+<summary><b>📌 Manipulação de Matrizes Dinâmicas usando Ponteiros</b></summary>
+
+<br>
+
+Projeto desenvolvido em **C** envolvendo conceitos fundamentais de programação, com foco em **ponteiros, alocação dinâmica de memória e manipulação de matrizes**.
+
+<a href="https://github.com/marina-veiga/lp1-matrizes-dinamicas-ponteiros">
+<img src="https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📚 Lista de Exercícios — Linguagem de Programação I</b></summary>
+
+<br>
+
+Repositório desenvolvido para **estudos e resolução de exercícios da disciplina de Linguagem de Programação I**, reunindo diferentes práticas de programação em C.
+
+<a href="https://github.com/marina-veiga/lista-exercicios-lp1">
+<img src="https://img.shields.io/badge/VER%20PROJETO-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</details>
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api?username=marina-veiga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E6EDF3&icon_color=EC4899&ring_color=06B6D4&locale=pt-br"/>
-
-<img height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga&layout=compact&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=E6EDF3&icon_color=06B6D4&locale=pt-br"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=marina-veiga&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=8B5CF6&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
 
@@ -131,85 +86,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-veiga
 
 ---
 
-## 🚀 Projetos
-
-<details>
-<summary><b>💻 Projetos acadêmicos</b></summary>
-
-<br>
-
-### 📌 Manipulação de Matrizes Dinâmicas usando Ponteiros
-
-Projeto desenvolvido em **C**, envolvendo estruturas de dados, ponteiros, alocação dinâmica de memória e manipulação de matrizes.
-
-<a href="https://github.com/marina-veiga/lp1-matrizes-dinamicas-ponteiros">
-<img src="https://img.shields.io/badge/Ver%20projeto-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 📚 Lista de Exercícios — LP1
-
-Repositório voltado para estudos e exercícios da disciplina de **Linguagem de Programação I**.
-
-<a href="https://github.com/marina-veiga/lista-exercicios-lp1">
-<img src="https://img.shields.io/badge/Ver%20projeto-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
----
+## 🎓 Formação
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/marina-veiga/marina-veiga/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 My GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marina-veiga&bg_color=0D1117&color=E6EDF3&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+**Ciência da Computação**  
+Universidade Federal do Maranhão — UFMA
 
 </div>
-
----
-
-## 🔎 Atualmente
-
-<details open>
-<summary><b>🎓 Formação</b></summary>
-
-<br>
-
-**Ciência da Computação — Universidade Federal do Maranhão (UFMA)**
-
-</details>
-
-<details>
-<summary><b>🔬 Pesquisa</b></summary>
-
-<br>
-
-**Laboratório de Inteligência Interativa (LINT-UFMA)**
-
-Projetos de pesquisa e extensão relacionados à computação e inteligência artificial.
-
-</details>
-
-<details>
-<summary><b>🧠 Áreas de interesse</b></summary>
-
-<br>
-
-Artificial Intelligence • Machine Learning • Computer Vision • Image Processing • Software Engineering
-
-</details>
 
 ---
 
@@ -218,7 +102,7 @@ Artificial Intelligence • Machine Learning • Computer Vision • Image Proce
 ## 📫 Vamos conversar?
 
 <a href="mailto:marinaveiga01@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="http://lattes.cnpq.br/3920409506983224">
